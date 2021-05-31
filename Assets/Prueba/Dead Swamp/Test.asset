@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Test
+  m_EditorClassIdentifier: Assembly-CSharp:UnityEngine.Tilemaps:AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -748335517511376826, guid: d3450ed588850d14e8c6de6598d43dcf, type: 3}
+  - {fileID: -8472945544596496837, guid: d3450ed588850d14e8c6de6598d43dcf, type: 3}
+  - {fileID: -4965343928788395924, guid: d3450ed588850d14e8c6de6598d43dcf, type: 3}
+  - {fileID: -5514040299105850242, guid: d3450ed588850d14e8c6de6598d43dcf, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1

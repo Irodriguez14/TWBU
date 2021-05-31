@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bbabf93e1220640a339cd2683b026f, type: 3}
+  m_Name: Lanza de hierro
+  m_EditorClassIdentifier: 
+  itemName: Lanza de hierro
+  icon: {fileID: -7810939053578656826, guid: 9ca21bbd5ba06fc47b5138562672046c, type: 3}
+  type: 2
+  amount: 1
+  description: Es una lanza de hierro. Sin mas.
+  priceToBuy: 20
+  priceToSell: 20
+  stackable: 0
+  lvl: 5
+  attack: 25
+  crit: 10
+  rarity: 0
+  weaponType: 1
+  materialsToCraft: []

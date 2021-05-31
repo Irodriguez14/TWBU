@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc70e586677be284eafc1d634bd7b08e, type: 3}
+  m_Name: Pantalones Ikigai V2
+  m_EditorClassIdentifier: 
+  itemName: Pantalones Ikigai V2
+  icon: {fileID: 1030621548659140584, guid: 9ca21bbd5ba06fc47b5138562672046c, type: 3}
+  type: 3
+  amount: 1
+  description: Pantalones que llevan los Generales del Ikigai.
+  priceToBuy: 300
+  priceToSell: 300
+  stackable: 0
+  lvl: 40
+  defense: 200
+  health: 150
+  rarity: 4
+  armorType: 2
+  materialsToCraft: []

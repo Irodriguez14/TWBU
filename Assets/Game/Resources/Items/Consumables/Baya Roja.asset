@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4210d78bd3cfcfe44b88997fbaac3f25, type: 3}
+  m_Name: Baya Roja
+  m_EditorClassIdentifier: 
+  itemName: Baya Roja
+  icon: {fileID: 689664205713802623, guid: 405f76c3ec119fa4181d510bb3d48b76, type: 3}
+  type: 1
+  amount: 1
+  description: Una baya roja completamente redonda que cura el malestar. Se puede
+    plantar en interiores.
+  priceToBuy: 12
+  priceToSell: 8
+  stackable: 1
+  consumableType: 0
+  amountConsumable: 10

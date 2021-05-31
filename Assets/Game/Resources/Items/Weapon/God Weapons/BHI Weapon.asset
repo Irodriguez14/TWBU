@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bbabf93e1220640a339cd2683b026f, type: 3}
+  m_Name: BHI Weapon
+  m_EditorClassIdentifier: 
+  itemName: BHI Weapon
+  icon: {fileID: 0}
+  type: 2
+  amount: 1
+  description: Arma creada en el principio de los tiempos, se desconoce cual es suforma
+    solo se sabe que una vez fue portada por  el primer humano fundador de las 8
+    familias Nova.
+  priceToBuy: 0
+  priceToSell: 0
+  stackable: 0
+  lvl: 60
+  attack: 9999
+  crit: 9999
+  rarity: 6
+  weaponType: 0
+  materialsToCraft: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cebb1c6214f96b498023ad5c51495b3, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: karma
+    portrait: {fileID: -6990428845581758128, guid: 03f274df7ecfda4429f557416c4eb36a,
+      type: 3}
+    myText: Soy monke 2 continued text here 1 2 3
+  - myName: xaqua
+    portrait: {fileID: 614638144224354551, guid: 03f274df7ecfda4429f557416c4eb36a,
+      type: 3}
+    myText: hola 1 mid text here people
+  - myName: Tache
+    portrait: {fileID: 1751707705442675825, guid: e862325e0a1d0cf4b8341717958a5781,
+      type: 3}
+    myText: Soy monke 3 final line goodbye everyone

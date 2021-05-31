@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3dabc6eb0850cb46a800c9f8347c074, type: 3}
+  m_Name: Sombra
+  m_EditorClassIdentifier: 
+  characterName: Sombra
+  description: "Una sombra. As\xED, sin m\xE1s. Tienen forma humanoide pero est\xE1n
+    envueltas completamente en sombras"
+  sprite: {fileID: 21300000, guid: b2615d1172e7a48478a351dde73da294, type: 3}
+  maxHp: 12
+  attack: 18
+  defense: 15
+  speed: 32
+  majic: 45
+  crit: 0
+  expToLvlUp: 100000000
+  idleAnim: Sombra_idle
+  icon: {fileID: 21300000, guid: 9cea7d7884167914b8f5ae49b4f2f889, type: 3}
+  idleAnimZoom: sombra_idle_zoom
+  pointsAbility: 1
+  actualMaxHp: 0
+  actualAttack: 0
+  actualDefense: 0
+  actualSpeed: 0
+  actualMajic: 0
+  actualExpToLvlUp: 0
+  learnableAbilities:
+  - abilityBase: {fileID: 11400000, guid: 5cdb366401a1d6b45996d164a560da19, type: 2}
+    isUnlocked: 1

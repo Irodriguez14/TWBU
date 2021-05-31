@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 981ea724809640b4786f57a1c8d07bee, type: 3}
+  m_Name: Madera
+  m_EditorClassIdentifier: 
+  itemName: Plancha de madera
+  icon: {fileID: 3560716107835662513, guid: 405f76c3ec119fa4181d510bb3d48b76, type: 3}
+  type: 0
+  amount: 1
+  description: Una plancha de madera alargada
+  priceToBuy: 5
+  priceToSell: 11
+  stackable: 1

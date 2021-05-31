@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db23f08c3dad424181e4980110fcf8e, type: 3}
+  m_Name: IceFriend
+  m_EditorClassIdentifier: 
+  abilityName: Ice Friend
+  description: Itzie llama a unos amigos voladores hechos de hielo que atacan a su
+    rival
+  power: 85
+  majic: 25
+  accuracy: 0
+  icon: {fileID: 21300000, guid: 801ab140da40d21418eecd0d963ea32a, type: 3}
+  abilityAnim: 
+  basicAttack: 0
+  abilityToUnlock:
+  - abilityBase: {fileID: 11400000, guid: 50ff81ef6a2815a438c6d56c915f3ec3, type: 2}
+    isUnlocked: 0
+  pointsNeeded: 3
+  isPasive: 0

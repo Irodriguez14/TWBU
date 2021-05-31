@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cebb1c6214f96b498023ad5c51495b3, type: 3}
+  m_Name: Letter
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: "Reinado de Arda\xE1n"
+    portrait: {fileID: 0}
+    myText: "Estimada Vy, le enviamos esta carta para comunicarle que ya puede pasar
+      por el palacio de Arda\xE1n para recoger la herencia de su padre. Tiene un
+      plazo de 4 d\xEDas, si no se presenta, el patrimonio de su padre ser\xE1 propiedad
+      del reinado y por lo tanto ir\xE1 a las arcas de la ciudad."
+  - myName: Vy
+    portrait: {fileID: 21300000, guid: 10deda9b12e9e8c4b959804b0d8f154f, type: 3}
+    myText: "\xA1\xBF4 D\xCDAS?! \xA1\xBFTARDAN 5 A\xD1OS Y AHORA ME VIENEN CON PRISAS?!"
+  - myName: Vy
+    portrait: {fileID: 21300000, guid: 10deda9b12e9e8c4b959804b0d8f154f, type: 3}
+    myText: "Adem\xE1s eso est\xE1 en la otra punta del reino..."
+  - myName: Vy
+    portrait: {fileID: 21300000, guid: 10deda9b12e9e8c4b959804b0d8f154f, type: 3}
+    myText: "Bueno ir\xE9 a hablar con Itzie para ver que podemos hacer. Aunque primero
+      deber\xEDa ir a hablar con el monarca antes de irme, va a ser un viaje largo
+      y no me gustar\xEDa irme sin despedirme."
+  - myName: Tutorial
+    portrait: {fileID: 0}
+    myText: "\"Utiliza el joystick de abajo a la izquierda para mover al personaje.
+      Si est\xE1s cerca de una puerta, persona o objeto con el que interactuar, se
+      iluminar\xE1 el bot\xF3n de abajo a la derecha y podr\xE1s pulsarlo e interaccionar.\""
+  - myName: Tutorial
+    portrait: {fileID: 0}
+    myText: '"Arriba a la derecha tienes un minimapa en el que ver la zona donde
+      te encuentras."'
+  - myName: Tutorial
+    portrait: {fileID: 0}
+    myText: "\"Pulsando el bot\xF3n de arriba a la izquierda puedes pausar el juego
+      as\xED como ver tu inventario, misiones, habilidades y guardar la partida.\""
+  - myName: Tutorial
+    portrait: {fileID: 0}
+    myText: '"Puedes interactuar con la cama por si te quieres curar y recuperar
+      todo el Majic."'
+  - myName: Tutorial
+    portrait: {fileID: 0}
+    myText: '"Recuerda ir guardando la partida si no quieres perder tu progreso."'

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 92bf512da35413d45943d2b4696b5bf2
+  - enabled: 1
+    path: Assets/Scenes/Plot/VideoInicio.unity
+    guid: 532be91974bce954a8aa33874c1f2efa
+  - enabled: 1
+    path: Assets/Scenes/PruebaTurnBased.unity
+    guid: 5c8848ceaba5cf94d859546b3facc764
+  - enabled: 1
+    path: Assets/Scenes/Prueba3D.unity
+    guid: 4c178b104aac5c642963adfbed8262db
+  - enabled: 1
+    path: Assets/Scenes/Plot/CasaVy.unity
+    guid: 74e164c881e50264187dd738b48faa7f
+  - enabled: 1
+    path: Assets/Scenes/Plot/Pueblo1.unity
+    guid: ba867701b64f9df4eabc112a7101a2df
+  - enabled: 1
+    path: Assets/Scenes/Plot/CasaTown1_1.unity
+    guid: 0ec09b3406d7f2541931b0e3ae1594a7
+  - enabled: 1
+    path: Assets/Scenes/Plot/CasaTown1_2.unity
+    guid: 8df2717a0fa48a7488fa71f3a66f1e37
+  - enabled: 1
+    path: Assets/Scenes/Plot/Ruta1.unity
+    guid: 71e491baa1c3656469e38b18186976fb
+  - enabled: 1
+    path: Assets/Scenes/Plot/BaseIkigai.unity
+    guid: 8753fc2105549d245aaa2626f77dd00d
+  - enabled: 1
+    path: Assets/Scenes/Plot/Ruta2.unity
+    guid: c99a55c5d9665014d83390cc7f015f94
+  - enabled: 1
+    path: Assets/Scenes/Plot/Credits.unity
+    guid: e300dd712ce63ad4d9fee4bfdd7e387c
+  - enabled: 1
+    path: Assets/Scenes/Plot/VideoCapitulo1.unity
+    guid: 4afa5977fb7c1fa4e8abbd12332c3854
+  - enabled: 1
+    path: Assets/Scenes/Plot/VideoCapitulo2.unity
+    guid: d9ba1df6c4766884fbe5408949e28ad1
+  - enabled: 1
+    path: Assets/Scenes/Plot/VideoCapitulo3.unity
+    guid: f4db14757a5e97b48a5a328b3ed8c20d
+  m_configObjects: {}

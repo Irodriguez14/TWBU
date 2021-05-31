@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cebb1c6214f96b498023ad5c51495b3, type: 3}
+  m_Name: FishMan
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "No te esperaba tan pronto por aqu\xED, Itzie."
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "Han habido un par de imprevistos y cambios de \xFAltima hora."
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "\xBFAlgo importante?"
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: Vy
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "\xBFPelea de parejitas?"
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "Un comentario as\xED m\xE1s y te congelo en un acuario y te vendo a
+      un Zero para que te coma."
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "Esto es serio Toshie. Est\xE1 yendo al reino del Norte."
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "\xBFAl reino del Norte? \xBFQue pinta ella all\xED?"
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "Ha recibido una carta para que vaya a Arda\xE1n. "
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "\xBFA la capital? Que buen momento para ir de vacaciones."
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "\xBFNo eres puto consciente de que nos pueden matar?"
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "No vayas con ella, ponle alguna excusa y qu\xE9date aqu\xED con nosotros.
+      Solo te trae problemas, tarde o temprano descubrir\xE1 todo en lo que est\xE1s
+      metida."
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "No puedo dejarla sola, es lo \xFAnico que me importa. "
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "Pues para importarte tanto, todav\xEDa no le has contado nada de esto."
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "No puedo dec\xEDrselo todav\xEDa, no es el momento. No acabar\xEDa bien,
+      le har\xEDa da\xF1o y es lo \xFAltimo que quiero."
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "Itzie, el Ikigai no est\xE1 para estas cosas..."
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "\xA1\xBFNO TE DAS CUENTA DE QUE ESTAMOS EN GUERRA?! \xA1VA A MORIR MUCHA
+      GENTE! \xA1NO ES MOMENTO DE PROBLEMAS DE PAREJA!"
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "Toshie, est\xE1 decidido, voy a ir con ella. No la voy a dejar sola.
+      Pase lo que pase."
+  - myName: Toshie
+    portrait: {fileID: 0}
+    myText: "Si te mueres no digas que no te avis\xE9"
+  - myName: Itzie
+    portrait: {fileID: 21300000, guid: c60fd3e0ce5e9274dafe57abedc14dbb, type: 3}
+    myText: "Me volver\xE1s a ver no te preocupes. Cuando acabe todo esto el contar\xE9
+      todo a Vy."

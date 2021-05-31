@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3dabc6eb0850cb46a800c9f8347c074, type: 3}
+  m_Name: Vy
+  m_EditorClassIdentifier: 
+  characterName: Vy
+  description: Una chica de pueblo que se ha visto envuelta en un gran misterio
+  sprite: {fileID: 21300000, guid: fe938b3042f04b64bbf217c01d63f5fe, type: 3}
+  maxHp: 45
+  attack: 40
+  defense: 42
+  speed: 65
+  majic: 200
+  crit: 50
+  expToLvlUp: 20
+  idleAnim: Vy_Idle
+  icon: {fileID: 21300000, guid: 10deda9b12e9e8c4b959804b0d8f154f, type: 3}
+  idleAnimZoom: vy_idle_zoom
+  pointsAbility: 1
+  actualMaxHp: 0
+  actualAttack: 0
+  actualDefense: 0
+  actualSpeed: 0
+  actualMajic: 0
+  actualExpToLvlUp: 0
+  learnableAbilities:
+  - abilityBase: {fileID: 11400000, guid: 6199cf89695901b47916614ffb508247, type: 2}
+    isUnlocked: 1
+  - abilityBase: {fileID: 11400000, guid: 98a041fbb8384a5439cebc10ba97f18c, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: 9fcd2ec0b296f4248afb07874795d8fb, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: 786a4a4a57d1cca4fad090f97ad59402, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: d1b1d433776e80c43bf4f5f77fa98545, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: d0489d2e6274b9e4995efb934eae73ef, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: 98a29ff9b813b584c820a947a7e47857, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: 5a7b7c6ff90e7be469f1e6f61ea8634c, type: 2}
+    isUnlocked: 0
+  - abilityBase: {fileID: 11400000, guid: 8028edec54ea4634f856f90c1140e305, type: 2}
+    isUnlocked: 1
